@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/salmaanreact/static/css/main.d87c0f1a.chunk.css",
+    "main.js": "/salmaanreact/static/js/main.c2d074f6.chunk.js",
+    "main.js.map": "/salmaanreact/static/js/main.c2d074f6.chunk.js.map",
+    "runtime-main.js": "/salmaanreact/static/js/runtime-main.fdaa2cb7.js",
+    "runtime-main.js.map": "/salmaanreact/static/js/runtime-main.fdaa2cb7.js.map",
+    "static/js/2.8a58e11b.chunk.js": "/salmaanreact/static/js/2.8a58e11b.chunk.js",
+    "static/js/2.8a58e11b.chunk.js.map": "/salmaanreact/static/js/2.8a58e11b.chunk.js.map",
+    "index.html": "/salmaanreact/index.html",
+    "static/css/main.d87c0f1a.chunk.css.map": "/salmaanreact/static/css/main.d87c0f1a.chunk.css.map",
+    "static/js/2.8a58e11b.chunk.js.LICENSE.txt": "/salmaanreact/static/js/2.8a58e11b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdaa2cb7.js",
+    "static/js/2.8a58e11b.chunk.js",
+    "static/css/main.d87c0f1a.chunk.css",
+    "static/js/main.c2d074f6.chunk.js"
+  ]
+}
